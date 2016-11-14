@@ -1,0 +1,3 @@
+[submodule "submodules/dungeonScripts"]
+	path = submodules/dungeonScripts
+	url = https://github.com/RiotInferno/dungeonScripts.git
